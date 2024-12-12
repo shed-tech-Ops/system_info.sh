@@ -11,7 +11,7 @@ git push -u origin main
 #!/bin/bash
 
 # System Info Script
-# Author: [Your Name]
+# Author: Shedrick C Robinson
 # Date: $(date)
 # Description: This script displays basic system information.
 
